@@ -1,0 +1,2304 @@
+True:হৈরোক্ কী    Generated:হৈরো ক্কী 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:প্রজা শিং না    Generated:প্রজা শিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শেম্ বা    Generated:শেম্ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এসপিও দা    Generated:এসপি ও দা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:নোংমৈ    Generated:নোংমৈ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী বা    Generated:পী বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম সুং    Generated:অম সুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মদু বু    Generated:মদু বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ বা    Generated:লৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ দব গী    Generated:লৌ দব গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতাং দা    Generated:মতাং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙসি    Generated:ঙসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নুং থিন    Generated:নুংথি ন 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:হৈরোক    Generated:হৈরো ক 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:পার্ট    Generated:পার্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:টু    Generated:টু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:উমং    Generated:উমং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লাই    Generated:লাই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কো ন্দা    Generated:কো ন্দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৈরোক    Generated:হৈরো ক 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:প্রজা    Generated:প্রজা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীয়াম গী    Generated:মীয়াম গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই বা    Generated:ওই বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অচৌ বা    Generated:অচৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীফম    Generated:মীফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অমা    Generated:অমা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পাঙ থোক খ্ রে    Generated:পাঙথোক খ্ রে 
+Substitution:4   Deletion:1   Insertions:-1   AER:0.8   Accuracy:0.19999999999999996
+True:জেএসি    Generated:জেএ সি 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:হৈরোক্ না    Generated:হৈরো ক্ না 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:হৈরোক্ কী    Generated:হৈরো ক্কী 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:প্রজা শিং দা    Generated:প্রজা শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মশা    Generated:মশা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙাক থোক চন বা    Generated:ঙাক থোক চন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নোংমৈ    Generated:নোংমৈ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী য়ু    Generated:পী য়ু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় না    Generated:হায় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চঙ শিল্লক খি বা    Generated:চঙশিল্ল ক খি বা 
+Substitution:2   Deletion:0   Insertions:0   AER:0.4   Accuracy:0.6
+True:খোঙজং গী    Generated:খোঙজং গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতুং    Generated:মতুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইন্ না    Generated:ইন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৈরোক্ তা    Generated:হৈরো ক্ তা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:এসপিও    Generated:এসপি ও 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:থম্ন বা    Generated:থম্ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গবর্ণমেন্ট না    Generated:গবর্ণমেন্ট না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱা রেপ    Generated:ৱারে প 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:লৌ খ্রব নি    Generated:লৌ খ্রব নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গবর্ণমেন্ট না    Generated:গবর্ণমেন্ট না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৈরো ক্ তা    Generated:হৈরো ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এসপি ও    Generated:এসপি ও 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থ ম্ব দা    Generated:থ ম্ব দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অয়া বা    Generated:অয়া বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী রক্ল বা    Generated:পী রক্ল বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতুং দা    Generated:মতুং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএ সি গী    Generated:জেএ সি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কাঙবু বু    Generated:কাঙবু বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বর্ মা দা    Generated:বর্ মা দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ ব শিং না    Generated:লানহৌ ব শিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কৌ রু বা    Generated:কৌ রু বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু দা    Generated:অদু দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রজা শিং গী    Generated:প্রজা শিং গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মায়কৈ দগী    Generated:মায়কৈ দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি দা    Generated:জেএ সি দা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:পে ন্দ বা    Generated:পে ন্দ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খ রা    Generated:খ রা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ রকপ দগী    Generated:লৈ রকপ দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙসি গী    Generated:ঙসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীফম    Generated:মীফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু    Generated:অদু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গা    Generated:জেএ সি গা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:তান দ না    Generated:তান দ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৈরোক    Generated:হৈরো ক 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:প্রজা শিং না    Generated:প্রজা শিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পাঙ থোক খিব নি    Generated:পাঙথোক খিব নি 
+Substitution:4   Deletion:1   Insertions:-1   AER:0.8   Accuracy:0.19999999999999996
+True:অদুম    Generated:অদু ম 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:ওই নম ক    Generated:ওই নম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মী ওই শিং সু    Generated:মীওই শিং সু 
+Substitution:4   Deletion:1   Insertions:-1   AER:0.8   Accuracy:0.19999999999999996
+True:লা ক্তু না    Generated:লা ক্তু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি    Generated:জেএ সি 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:অম সুং    Generated:অম সুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রজা শিং গী    Generated:প্রজা শিং গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মরক্ তা    Generated:মর ক্ তা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:পে ন্দ বা    Generated:পে ন্দ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পাউ    Generated:পাউ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফাও ন দবা    Generated:ফাও ন দবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈরিব শিং    Generated:লৈরিব শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শেংদো ক্ন খি    Generated:শেংদো ক্ন খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীফম    Generated:মীফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু দা    Generated:অদু দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মত    Generated:মত 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফোঙ দো ক্ন খিব শিং না    Generated:ফোঙদো ক্ন খিব শিং না 
+Substitution:6   Deletion:1   Insertions:-1   AER:0.8571428571428571   Accuracy:0.1428571428571429
+True:হৈরোক্ কী    Generated:হৈরো ক্কী 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:প্রজা শিং না    Generated:প্রজা শিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নোংমৈ    Generated:নোংমৈ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী য়ু    Generated:পী য়ু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি ব সি    Generated:হায় রিব সি 
+Substitution:3   Deletion:1   Insertions:-1   AER:0.6   Accuracy:0.4
+True:মশা    Generated:মশা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙাক থোক চ নব নি    Generated:ঙাক থোকচ নব নি 
+Substitution:4   Deletion:1   Insertions:-1   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:নোংমৈ    Generated:নোংমৈ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অথু বা    Generated:অথু বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতম দা    Generated:মতম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ সি    Generated:লৌ সি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নোংমৈ    Generated:নোংমৈ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ ব না    Generated:লৌ ব না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৈরো ক    Generated:হৈরো ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হে ন্ না    Generated:হে ন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হে ন্ না    Generated:হে ন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চাওখত্ পা    Generated:চাওখত্ পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই গ নি    Generated:ওই গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নোংমৈ    Generated:নোংমৈ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ র গা    Generated:লৌ র গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ বা    Generated:লানহৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থেংন গে    Generated:থেংন গে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় বা    Generated:হায় বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নত্তে    Generated:নত্তে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:টে    Generated:টে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:রোরিজম    Generated:রোরিজ ম 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:থেংন গে    Generated:থেংন গে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায়ব নি    Generated:হায়ব নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় বা    Generated:হায় বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱাফম    Generated:ৱাফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থম্ন খি    Generated:থম্ন খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এসপিও    Generated:এসপি ও 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:নত্ত্ রব সু    Generated:নত্ত্ রব সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৈরো ক    Generated:হৈরো ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রোটেক্সন    Generated:প্রোটে ক্ সন 
+Substitution:2   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:ফোর্স    Generated:ফোর্স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই রব সু    Generated:ওই রব সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অ কায় বা    Generated:অ কায় বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ তে    Generated:লৈ তে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মী ওই শিং না    Generated:মীওই শিং না 
+Substitution:4   Deletion:1   Insertions:-1   AER:0.8   Accuracy:0.19999999999999996
+True:বর্মা দা    Generated:বর্ মা দা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:চত্ লু র গা    Generated:চত্ লু র গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ ব শিং    Generated:লানহৌ ব শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:উন রু ব দগী    Generated:উন রু ব দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মখোয়    Generated:মখোয় 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঞ্জা ন    Generated:ঞ্জা ন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা দ্ রে    Generated:তা দ্ রে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:খোঙথাং    Generated:খোঙথাং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়েং ল গা    Generated:য়েং ল গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থবক    Generated:থবক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ বা    Generated:তৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চুম দ্ রে    Generated:চুম দ্ রে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রজা শিং গী    Generated:প্রজা শিং গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অপা ম্ব দা    Generated:অপা ম্ব দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থবক    Generated:থবক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ বা    Generated:তৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চু ম্ লে    Generated:চু ম্ লে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় না    Generated:হায় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পল্ল দু না    Generated:পল্ল দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বর্মা দা    Generated:বর্ মা দা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:চত্ লু র গা    Generated:চত্ লু র গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হল্ল ক্ল বা    Generated:হল্ল ক্ল বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতুং দগী দি    Generated:মতুং দগী দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:খোঙজং    Generated:খোঙজং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হন্থ রক্ লে    Generated:হন্থ রক্ লে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মায়কৈ দগী    Generated:মায়কৈ দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ভাইস    Generated:ভাই স 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:প্রসিডেন্ট    Generated:প্রসিডেন্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এল    Generated:এল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থম্মোই না    Generated:থম্মোই না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মীওই শিং না    Generated:মীওই শিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বর্মা দা    Generated:বর্ মা দা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:চত্ লু ব গী    Generated:চত্ লু ব গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱাফম    Generated:ৱাফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীয়াম দা    Generated:মীয়াম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শেংদো ক্ল দু না    Generated:শেংদো ক্ল দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৈরোক্ কী    Generated:হৈরো ক্কী 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:প্রজা শিং না    Generated:প্রজা শিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ রক্ লি বা    Generated:হৌ রক্ লি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঈ হৌ    Generated:ঈ হৌ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি গী    Generated:অসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতাং দা    Generated:মতাং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মরী ক    Generated:মরী ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চু ম্ না    Generated:চু ম্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ ব দগী    Generated:হৌ ব দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোই বা    Generated:লোই বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফাও বা    Generated:ফাও বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খঙ হ ন্ন বা    Generated:খঙ হ ন্ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মীওই শিং বু    Generated:মীওই শিং বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বর্মা দা    Generated:বর্ মা দা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:কৌ রক প নি    Generated:কৌ রকপ নি 
+Substitution:3   Deletion:1   Insertions:-1   AER:0.6   Accuracy:0.4
+True:হায় খি    Generated:হায় খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি না    Generated:জেএ সি না 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:চত্ লোই সি    Generated:চত্ লোই সি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় না    Generated:হায় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খ ন্নব নি    Generated:খ ন্নব নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু বু    Generated:অদু বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ ব শিং না    Generated:লানহৌ ব শিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মখা    Generated:মখা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা না    Generated:তা না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মায়কৈ দা    Generated:মায়কৈ দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মখোয় না    Generated:মখোয় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কৌ বা    Generated:কৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু দা    Generated:অদু দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লা ক্ত্ রব দি    Generated:লা ক্ত্ রব দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফা বা    Generated:ফা বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পুন বা    Generated:পুন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ রকপ দা    Generated:তৌ রকপ দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অফ বা    Generated:অফ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই রোই    Generated:ওই রোই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায়ব কপ দগী    Generated:হায়ব কপ দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বর্মা দা    Generated:বর্ মা দা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:চত্ লু ব নি    Generated:চত্ লু ব নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় বা    Generated:হায় বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱাফম    Generated:ৱাফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থম খি    Generated:থম খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:টে    Generated:টে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লি ফো ন    Generated:লি ফো ন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নম্বর    Generated:ন ম্ব র 
+Substitution:2   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:লানহৌ ব শিং দা    Generated:লানহৌ ব শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পায় র ম্বা    Generated:পায় র ম্বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বর্মা দা    Generated:বর্ মা দা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মীওই শিং    Generated:মীওই শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্ খ্ রে    Generated:চত্ খ্ রে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা ব দগী    Generated:তা ব দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তেং নৌ প ল দা    Generated:তেং নৌ প ল দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সি ফাইনা    Generated:সি ফাইনা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:কাঙবু    Generated:কাঙবু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙাই দু না    Generated:ঙাই দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈর ম্ মী    Generated:লৈর ম্ মী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মসি না    Generated:মসি না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা কপ দি    Generated:তা কপ দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মর ক্ তা    Generated:মর ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সি আই ডি    Generated:সি আই ডি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ রে    Generated:লৈ রে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায়ব নি    Generated:হায়ব নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় না    Generated:হায় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফোঙদোক খি    Generated:ফোঙদোক খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ ব শিং গা    Generated:লানহৌ ব শিং গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱারী    Generated:ৱারী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শান খি বা    Generated:শান খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু দা    Generated:অদু দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ ব শিং না    Generated:লানহৌ ব শিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চিং ন বা    Generated:চিং ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ থু প    Generated:লৌ থু প 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ কোই    Generated:লৌ কোই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও দ না    Generated:য়াও দ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় নিং বা    Generated:হায় নিং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় য়ু    Generated:হায় য়ু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায়ব দগী    Generated:হায়ব দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মায়কৈ দগী    Generated:মায়কৈ দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় নিং বা    Generated:হায় নিং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় খি    Generated:হায় খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় ন সু    Generated:হায় ন সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মখা    Generated:মখা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা খি    Generated:তা খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি গী    Generated:জেএ সি গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মায়কৈ দগী    Generated:মায়কৈ দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ    Generated:লানহৌ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ব শিং    Generated:ব শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পুন শিল্ল ু    Generated:পুন শিল্ল ু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ ব শিং গী    Generated:লানহৌ ব শিং গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কোর্ট    Generated:কোর্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লিং উ    Generated:লিং উ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রজা না    Generated:প্রজা না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শা উ রিবা    Generated:শা উ রিবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:করি গী নো    Generated:করি গী নো 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বি চা র    Generated:বি চা র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ বী য়ু    Generated:তৌবী য়ু 
+Substitution:3   Deletion:1   Insertions:-1   AER:0.75   Accuracy:0.25
+True:ন খোয় না    Generated:ন খোয় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইণ্ডিয়া    Generated:ইণ্ডিয়া 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মথ ক্ তা    Generated:মথ ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নিং তম্ বা    Generated:নিং তম্ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফং ন বা    Generated:ফং ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ রি বা    Generated:হৌ রিবা 
+Substitution:2   Deletion:1   Insertions:-1   AER:0.5   Accuracy:0.5
+True:লান    Generated:লান 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লেপ খো    Generated:লেপ খো 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ন খোয় দগী    Generated:ন খোয় দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রজা    Generated:প্রজা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীয়াম্ বু    Generated:মীয়া ম্ বু 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:নিং তম্ বা    Generated:নিং তম্ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হা ন্ না    Generated:হা ন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী খো    Generated:পী খো 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ন খোয় না    Generated:ন খোয় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রজা    Generated:প্রজা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হাত্ ল ব নি না    Generated:হাত্ ল ব নি না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ন খোয় না    Generated:ন খোয় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পু রক পা    Generated:পু রক পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নিং তম্ বা    Generated:নিং তম্ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রজা না    Generated:প্রজা না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পাম দ্ রে    Generated:পাম দ্ রে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় না    Generated:হায় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ ব শিং দা    Generated:লানহৌ ব শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় র ম্ মী    Generated:হায় র ম্ মী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লানহৌ ব শিং গী    Generated:লানহৌ ব শিং গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মায়কৈ দগী    Generated:মায়কৈ দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ রিবা    Generated:হৌ রিবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লান    Generated:লান 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রজা শিং গী নি    Generated:প্রজা শিং গী নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রজা    Generated:প্রজা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈত্ রব দি    Generated:লৈত্ রব দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:করি    Generated:করি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কান্ন গ নি    Generated:কান্ন গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ন খোয় না    Generated:ন খোয় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি    Generated:জেএ সি 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:প্রজা শিং বু    Generated:প্রজা শিং বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থে ম্বী য়ু    Generated:থে ম্বী য়ু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় বা    Generated:হায় বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱাফম    Generated:ৱাফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেএসি দা    Generated:জেএ সি দা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:থম্ল ক খি    Generated:থম্ল ক খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় ন সু    Generated:হায় ন সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফোঙদোক খি    Generated:ফোঙদোক খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীফম    Generated:মীফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু দা    Generated:অদু দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কু প্ না    Generated:কু প্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খন্ন রবা    Generated:খন্ন রবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতুং দা    Generated:মতুং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱা রেপ    Generated:ৱারে প 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:খর সু    Generated:খর সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ খি    Generated:লৌ খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱা রেপ শিং    Generated:ৱারে প শিং 
+Substitution:2   Deletion:0   Insertions:0   AER:0.5   Accuracy:0.5
+True:অদু দি    Generated:অদু দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৈরোক্ তা    Generated:হৈরো ক্ তা 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:এসপিও    Generated:এসপি ও 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:প্রোটেক্সন    Generated:প্রোটে ক্ সন 
+Substitution:2   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:ফোর্স    Generated:ফোর্স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থম দু না    Generated:থ মদু না 
+Substitution:2   Deletion:0   Insertions:0   AER:0.5   Accuracy:0.5
+True:হৈরোক    Generated:হৈরো ক 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:ঙাক চন বা    Generated:ঙাক চন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খুত্ লায়    Generated:খুত্ লায় 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী বী ন বা    Generated:পী বী ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গবর্ণমেন্ট তা    Generated:গবর্ণমেন্ট তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় জ বা    Generated:হায়জ বা 
+Substitution:3   Deletion:1   Insertions:-1   AER:0.75   Accuracy:0.25
+True:অম সুং    Generated:অম সুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৈরো ক্ তা    Generated:হৈরো ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ গদৌ রিবা    Generated:লৈ গদৌ রিবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এসপিও শিং    Generated:এসপি ও শিং 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:করি গু ম্বা    Generated:করি গু ম্বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মণিপুর    Generated:মণিপুর 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গবর্ণমেন্ট না    Generated:গবর্ণমেন্ট না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কাউন্টর    Generated:কাউন্ট র 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:ইন্স র্জে ন্সি    Generated:ইন্স র্জে ন্সি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওপরে সন শিং দা    Generated:ওপরে সন শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শীজিন্ন রক্ল ব দি    Generated:শীজিন্ন রক্ল ব দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মদু দা    Generated:মদু দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া দবা    Generated:য়া দবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খুত্ লায়    Generated:খুত্ লায় 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হন্ দোক খি বা    Generated:হন্ দোক খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায়বসি নি    Generated:হায়বসি নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐচ আই ভি    Generated:ঐচআই ভি 
+Substitution:3   Deletion:1   Insertions:-1   AER:0.75   Accuracy:0.25
+True:এ ইড সনা    Generated:এইড সনা 
+Substitution:3   Deletion:1   Insertions:-1   AER:0.75   Accuracy:0.25
+True:শোক হল্ল বা    Generated:শোক হল্ল বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীওই শিং গীদ ম ক্ তা    Generated:মীওই শিং গীদ ম ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অ খন্ন বা    Generated:অ খন্ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:আই ন    Generated:আই ন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শেম্ মু    Generated:শেম্ মু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় বা    Generated:হায় বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডিমাণ্ড    Generated:ডিমাণ্ড 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ দু না    Generated:তৌ দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইণ্ডিয়া    Generated:ইণ্ডিয়া 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পু ম্ব দা    Generated:পু ম্ব দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্থ রক পা    Generated:চত্থ রক পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সি গ নে চর    Generated:সি গ নে চ র 
+Substitution:2   Deletion:-1   Insertions:1   AER:0.4   Accuracy:0.6
+True:কেম্পে ইন গী    Generated:কেম্পে ইন গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শরু ক    Generated:শরু ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অমা    Generated:অমা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই না    Generated:ওই না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙসি    Generated:ঙসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বিষ্ণু পু র    Generated:বিষ্ণু পু র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডিষ্ট্রিক্টত সু    Generated:ডিষ্ট্রিক্ট ত সু 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:সি গ নে চর    Generated:সি গ নে চ র 
+Substitution:2   Deletion:-1   Insertions:1   AER:0.4   Accuracy:0.6
+True:কেম্পে ইন    Generated:কেম্পে ইন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ দোক খ্ রে    Generated:হৌ দোক খ্ রে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বিষ্ণু পু র    Generated:বিষ্ণু পু র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডিষ্ট্রিক্ট কি    Generated:ডিষ্ট্রিক্ট কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কু ম্বী    Generated:কু ম্বী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কৈথে ল দা    Generated:কৈথে ল দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ দোক খি বা    Generated:হৌ দোক খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেম্পে ইন    Generated:কেম্পে ইন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু    Generated:অদু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডে ডি কে টে ড    Generated:ডে ডি কে টে ড 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পি প ল স    Generated:পি প ল স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়ুনিয়ন    Generated:য়ুনিয় ন 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:কু ম্বী    Generated:কু ম্বী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম সুং    Generated:অম সুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লম জিং না    Generated:লম জিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:স পো র্ট    Generated:স পো র্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ র গা    Generated:তৌ র গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কম্মুনি টি    Generated:কম্মুনি টি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বে জ    Generated:বে জ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওর্গ নাইজে সন    Generated:ওর্গ নাইজে সন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই রি বা    Generated:ওই রিবা 
+Substitution:2   Deletion:1   Insertions:-1   AER:0.5   Accuracy:0.5
+True:হো প    Generated:হো প 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফো র    Generated:ফো র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ও ল    Generated:ও ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম সুং    Generated:অম সুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোয় র্ স    Generated:লোয় র্ স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গ্রুপ না    Generated:গ্রুপ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শী নব নি    Generated:শী নব নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেম্পে ইন    Generated:কেম্পে ইন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙসি দগী    Generated:ঙসি দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ র গা    Generated:হৌ র গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থা    Generated:থা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি গী    Generated:অসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফাও বা    Generated:ফাও বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্থ গ নি    Generated:চত্থ গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেম্পে ইন    Generated:কেম্পে ইন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি দা    Generated:অসি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বিষ্ণু পু র    Generated:বিষ্ণু পু র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডিষ্ট্রিক্ট কি    Generated:ডিষ্ট্রিক্ট কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মনুং দা    Generated:মনুং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈবা    Generated:লৈবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ড্রগ    Generated:ড্রগ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লান্ না    Generated:লান্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শীজিন্ন বা    Generated:শীজিন্ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইন জে ক্ টিং    Generated:ইন জে ক্ টিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ড্রগ    Generated:ড্রগ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়ু জ র শিং    Generated:য়ু জ র শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম সুং    Generated:অম সুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফি মে ল    Generated:ফি মে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্ স    Generated:সেক্ স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱার্ কর শিং দগী    Generated:ৱার্ কর শিং দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সি গ নে চ র    Generated:সি গ নে চ র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ গ নি    Generated:লৌ গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোয় র্ স    Generated:লোয় র্ স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গ্রুপ কি    Generated:গ্রুপ কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই ন দি    Generated:ওই ন দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোয় র শিং দগী    Generated:লোয় র শিং দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সি গ নে চ র    Generated:সি গ নে চ র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ গ নি    Generated:লৌ গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খোম গত্ ল বা    Generated:খোম গত্ ল বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সি গ নে ট র শিং    Generated:সি গ নে ট র শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু    Generated:অদু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইণ্ডিয়া গী    Generated:ইণ্ডিয়া গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রাইম    Generated:প্রাই ম 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মিনিষ্টর    Generated:মিনিষ্ট র 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:ডা ক্ট র    Generated:ডা ক্ট র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মন মো হন    Generated:মন মো হন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সিংহ    Generated:সিংহ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়ুপিএ গী    Generated:য়ুপিএ গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চিয়ার পার্ সন    Generated:চিয়ার পার্ সন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সো নি য়া    Generated:সো নি য়া 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গান্ ধি    Generated:গান্ ধি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম সুং    Generated:অম সুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ও পোজি সন    Generated:ও পোজি সন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লি ড র    Generated:লি ড র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এল    Generated:এল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কে    Generated:কে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অ ড বা নি দা    Generated:অ ড বা নি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী গ নি    Generated:পী গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সি গ নে চ র    Generated:সি গ নে চ র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেম্পে ইন    Generated:কেম্পে ইন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌদো কপ গা    Generated:হৌদো কপ গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মরী    Generated:মরী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈন না    Generated:লৈন না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙসি    Generated:ঙসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কু ম্বী    Generated:কু ম্বী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কৈথে ল দা    Generated:কৈথে ল দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পাউমী শিং গা    Generated:পাউমী শিং গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:উ নব দা    Generated:উ নব দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোয় র্ স    Generated:লোয় র্ স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গ্রুপ কি    Generated:গ্রুপ কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্রেটরি    Generated:সেক্রেট রি 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:কে ঐচ    Generated:কে ঐচ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তরুন কুমার না    Generated:তরু ন কুমা র না 
+Substitution:4   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:হায় খি    Generated:হায় খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মা লেম গী    Generated:মালে ম গী 
+Substitution:2   Deletion:0   Insertions:0   AER:0.5   Accuracy:0.5
+True:মনুং দা    Generated:মনুং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডেমোক্রে সি    Generated:ডেমোক্রে সি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্ পা    Generated:চত্ পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খ্বাই দগী    Generated:খ্বাই দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চাউ বা    Generated:চাউ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈবাক    Generated:লৈবাক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইণ্ডিয়া না    Generated:ইণ্ডিয়া না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই রব সু    Generated:ওই রব সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইণ্ডিয়া গী    Generated:ইণ্ডিয়া গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সিটি জন    Generated:সিটি জ ন 
+Substitution:2   Deletion:-1   Insertions:1   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:কয়া দি    Generated:কয়া দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মী    Generated:মী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অমা    Generated:অমা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই না    Generated:ওই না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হিং জ নব গী    Generated:হিং জ নব গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডেমোক্রে টি ক    Generated:ডেমোক্রে টি ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই বা    Generated:ওই বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হক    Generated:হক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফং বা    Generated:ফং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙম দ্ রি    Generated:ঙম দ্ রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি গু ম্বা    Generated:অসি গু ম্বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীওই    Generated:মীওই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কয়া    Generated:কয়া 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি গী    Generated:অসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মথ ক্ তা    Generated:মথ ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐচআই ভি    Generated:ঐচআই ভি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এইডস না    Generated:এইড সনা 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:শোক হল্ল বা    Generated:শোক হল্ল বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীওই    Generated:মীওই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কয়া    Generated:কয়া 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হিং নব গী    Generated:হিং নব গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডেমোক্রেটিক    Generated:ডেমোক্রে টি ক 
+Substitution:2   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:ওই বা    Generated:ওই বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হক    Generated:হক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফং বা    Generated:ফং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙম দ্ রি    Generated:ঙম দ্ রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রিবা    Generated:হায় রিবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীওই শিং    Generated:মীওই শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি গী    Generated:অসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হ কি    Generated:হ কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:দ ম ক    Generated:দ ম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইণ্ডিয়া দা    Generated:ইণ্ডিয়া দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অ খন্ন বা    Generated:অ খন্ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এ ক্ট    Generated:এ ক্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অমা    Generated:অমা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফাও বা    Generated:ফাও বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈত্ রিব না    Generated:লৈত্ রিব না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐচআই ভি    Generated:ঐচআই ভি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এইড সনা    Generated:এইড সনা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শোক হল্ল বা    Generated:শোক হল্ল বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীওই শিং না    Generated:মীওই শিং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হিং ব দা    Generated:হিং ব দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চঙ দ্ রবা    Generated:চঙ দ্ রবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া দ্ রবা    Generated:য়া দ্ রবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হক শিং    Generated:হক শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফং হন্ নব গীদ ম ক্ তা    Generated:ফং হন্ নব গীদ ম ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:আই ন    Generated:আই ন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শেম্ বা    Generated:শেম্ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:দরকা র    Generated:দরকা র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই    Generated:ওই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌজি ক    Generated:হৌজি ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বি ল    Generated:বি ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই না    Generated:ওই না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ রিবা    Generated:লৈ রিবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐচআই ভি    Generated:ঐচআই ভি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এইড স    Generated:এইড স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বি ল    Generated:বি ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এ ক্ট    Generated:এ ক্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ও ন্থোক উ    Generated:ও ন্থোক উ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইণ্ডিয়া গী    Generated:ইণ্ডিয়া গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্লিয়া মেন্ট তা    Generated:পার্লিয়া মেন্ট তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পুথোক উ    Generated:পুথোক উ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় বা    Generated:হায় বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডিমাণ্ড    Generated:ডিমাণ্ড 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ দু না    Generated:তৌ দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইণ্ডিয়া গী    Generated:ইণ্ডিয়া গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মফম    Generated:মফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খুদিং ম ক্ তা    Generated:খুদিং ম ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মখল    Generated:মখ ল 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:কয়া মরুম গী    Generated:কয়ামরু ম গী 
+Substitution:2   Deletion:0   Insertions:0   AER:0.5   Accuracy:0.5
+True:কেম্পে ইন শিং    Generated:কেম্পে ইন শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্থ দু না    Generated:চত্থ দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মরী    Generated:মরী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈনব শিং দা    Generated:লৈনব শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তক শিন বা    Generated:তক শিন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই না    Generated:ওই না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সি গ নে চ র    Generated:সি গ নে চ র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেম্পে ইন    Generated:কেম্পে ইন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্ থব নি    Generated:চত্ থব নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বি ল    Generated:বি ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্লিয়মেন্ট কি    Generated:পার্লি য় মেন্ট কি 
+Substitution:3   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:মো ন সু ন    Generated:মো ন সু ন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সে সন দা    Generated:সে সন দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পুথো ক্ন বা    Generated:পুথো ক্ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তক শিন গ নি    Generated:তক শিন গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু দা    Generated:অদু দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শরু ক    Generated:শরু ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া খি বা    Generated:য়া খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোয় র্ স    Generated:লোয় র্ স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গ্রুপ কি    Generated:গ্রুপ কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রসিডেন্ট    Generated:প্রসিডেন্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এড ভো কে ট    Generated:এড ভো কে ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কাঙ ব ম    Generated:কাঙ ব ম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:রা ব ৈ না    Generated:রা ব ৈ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় খি    Generated:হায় খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐচআই ভি    Generated:ঐচআই ভি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এইড স    Generated:এইড স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বি ল    Generated:বি ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি না    Generated:অসি না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইণ্ডিয়া গী    Generated:ইণ্ডিয়া গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রসিডেন্ট কি    Generated:প্রসিডেন্ট কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অয়া বা    Generated:অয়া বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফং দু না    Generated:ফং দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এ ক্ট    Generated:এ ক্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওন বা    Generated:ওন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতম দা    Generated:মতম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐআই ভি    Generated:ঐচআই ভি 
+Substitution:1   Deletion:0   Insertions:0   AER:0.3333333333333333   Accuracy:0.6666666666666667
+True:এইডস না    Generated:এইড সনা 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:হক থেংন না    Generated:হক থেংন না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শোক হন্ দু না    Generated:শোক হন্ দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হিং লি বা    Generated:হিং লি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীওই    Generated:মীওই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মিলিয়ন    Generated:মিলি য় ন 
+Substitution:2   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:কয়া দা    Generated:কয়া দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অচৌ বা    Generated:অচৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থৌ না    Generated:থৌ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী গ নি    Generated:পী গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মখোয় গীদ ম ক    Generated:মখোয় গীদ ম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এ ক্ট    Generated:এ ক্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি দা    Generated:অসি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অ খন্ন বা    Generated:অ খন্ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রো ভি জ ন শিং    Generated:প্রো ভি জ ন শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী রি    Generated:পী রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বি ল    Generated:বি ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি গী    Generated:অসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্ সন    Generated:সেক্ সন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মরী দা    Generated:মরী দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প ল্লি বা    Generated:প ল্লি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রো ভি জ ন দা    Generated:প্রো ভি জ ন দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐচআই ভি    Generated:ঐচআই ভি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এইড সনা    Generated:এইড সনা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শোক হল্ল বা    Generated:শোক হল্ল বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীওই শিং দা    Generated:মীওই শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থবক    Generated:থবক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শু ফম দা    Generated:শু ফম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীয়াম    Generated:মীয়াম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তি ন বা    Generated:তি ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মফম দা    Generated:মফম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইমুং    Generated:ইমুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মনুং দা    Generated:মনুং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:স্কুল নচিং বা    Generated:স্কুল নচিং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মফম    Generated:মফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খুদিং ম ক্ তা    Generated:খুদিং ম ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মখ ল    Generated:মখ ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অমত্ত গী    Generated:অমত্ত গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডি স ক্রি মি নেস ন    Generated:ডি স ক্রি মি নেস ন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ বা    Generated:তৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থিং গ নি    Generated:থিং গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:বি ল    Generated:বি ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি গী    Generated:অসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চে প্ ট র    Generated:চে প্ ট র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তরেত্ তা    Generated:তরেত্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হা র্ ম    Generated:হা র্ ম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:রি ড ক্ সন গী    Generated:রি ড ক্ সন গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মনুং    Generated:মনুং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চ ন্ না    Generated:চ ন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কনা গু ম্বা    Generated:কনা গু ম্বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ড্রগ    Generated:ড্রগ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লান্ না    Generated:লান্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শীজিন্ন বা    Generated:শীজিন্ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীওই    Generated:মীওই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম না    Generated:অম না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সে রি ঞ্জ    Generated:সে রি ঞ্জ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পু র গা    Generated:পু র গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্ পা    Generated:চত্ পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:আই ন না    Generated:আই ন না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াই    Generated:য়াই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পাউমী শিং গা    Generated:পাউমী শিং গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:উন বা    Generated:উন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু দা    Generated:অদু দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শরু ক    Generated:শরু ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া খি বা    Generated:য়া খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হো প    Generated:হো প 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফো র    Generated:ফো র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ও ল গী    Generated:ও ল গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ম চী ন    Generated:ম চী ন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্ পা    Generated:চত্ পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম না    Generated:অম না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় খি    Generated:হায় খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐচ আই ভি    Generated:ঐচআই ভি 
+Substitution:3   Deletion:1   Insertions:-1   AER:0.75   Accuracy:0.25
+True:এইডস    Generated:এইড স 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:বি ল    Generated:বি ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এ ক্ট    Generated:এ ক্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওন বা    Generated:ওন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা রব দি    Generated:তা রব দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐচআই ভি    Generated:ঐচআই ভি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মী    Generated:মী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দগী    Generated:অম দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দা    Generated:অম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শন্দো কপ গী    Generated:শন্দো কপ গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চাং    Generated:চাং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া ম্ না    Generated:য়া ম্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হন্থ হন গ নি    Generated:হন্থ হন গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঐচআই ভি গা    Generated:ঐচআই ভি গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোয় ন না    Generated:লোয় ন না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হিং লি বা    Generated:হিং লি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খুদিং ম ক্ না    Generated:খুদিং ম ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খ্বাই দগী    Generated:খ্বাই দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চাউ না    Generated:চাউ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থেংন বা    Generated:থেংন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খুদোং থি বা    Generated:খুদোং থি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মখোয় বু    Generated:মখোয় বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডি স ক্রি মিনে ট    Generated:ডি স ক্রি মিনে ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ বা    Generated:তৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি নি    Generated:অসি নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডি স ক্রি মিনে ট    Generated:ডি স ক্রি মিনে ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ বা    Generated:তৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:আই ন না    Generated:আই ন না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া দে    Generated:য়া দে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মসি    Generated:মসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ রু রব দি    Generated:তৌ রু রব দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:দ ন্দি    Generated:দ ন্দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফং গ নি    Generated:ফং গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায়বসি গী    Generated:হায়বসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অকি বা    Generated:অকি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীয়াম দা    Generated:মীয়াম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফাও হন বা    Generated:ফাও হন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চঙ ই    Generated:চঙ ই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় খি    Generated:হায় খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেসিপি গী    Generated:কেসিপি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হেডক্বার্ট র্ স ত গী    Generated:হেডক্বার্ট র্ স ত গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্রেটরি    Generated:সেক্রেট রি 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:কে কে    Generated:কে কে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙা ন বা    Generated:ঙা ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও না    Generated:য়াও না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সে নিয় র    Generated:সে নিয় র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লীডর শিং    Generated:লী ড র শিং 
+Substitution:3   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:থোক্ল ক্ল গা    Generated:থোক্ল ক্ল গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শা ফ গদ বা    Generated:শা ফ গদ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মফম দা    Generated:মফম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ দু না    Generated:লৈ দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মপা ঙ্গ ল    Generated:মপা ঙ্গ ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শা গত্ প গী    Generated:শাগত্ প গী 
+Substitution:4   Deletion:1   Insertions:-1   AER:0.8   Accuracy:0.19999999999999996
+True:থবক    Generated:থবক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্থ রি    Generated:চত্থ রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেসিপি গী    Generated:কেসিপি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চী ফ    Generated:চী ফ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রোজেক্ট    Generated:প্রোজে ক্ট 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:ওফিসার    Generated:ওফিসা র 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:মেজর    Generated:মে জ র 
+Substitution:2   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:এম    Generated:এম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নোং থাং না    Generated:নোং থাং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থাদো রক পা    Generated:থাদো রক পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চেরোল    Generated:চেরোল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম না    Generated:অম না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কি    Generated:কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওক্টোবর    Generated:ওক্টো ব র 
+Substitution:2   Deletion:-2   Insertions:2   AER:1.0   Accuracy:0.0
+True:দগী    Generated:দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফাও বা    Generated:ফাও বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেসিপি    Generated:কেসিপি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পূ নশি নব গী    Generated:পূ নশি নব গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কংগ্রেস    Generated:কংগ্রে স 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:ফ ম্ল বা    Generated:ফ ম্ল বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতূং দা    Generated:মতূং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পূ ন শিন বা    Generated:পূ ন শিন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শেম দোক পা    Generated:শেম দোক পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থবক শিং গী    Generated:থবক শিং গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মনূং    Generated:মনূং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চ ন্ না    Generated:চ ন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি    Generated:পার্টি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কায় ন বা    Generated:কায় ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হোত্ নব শিং    Generated:হোত্ নব শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থ ূ প চি ন খি    Generated:থ ূ প চি ন খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কে এস ঐচ    Generated:কে এস ঐচ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লা বা    Generated:লা বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এ লাই জ    Generated:এ লাই জ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নো য়ো ন    Generated:নো য়ো ন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এ লাই জ    Generated:এ লাই জ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শে ঙ্গো ইনা    Generated:শে ঙ্গো ইনা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জে ল দগী    Generated:জে ল দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থোক্ল ক্তু না    Generated:থোক্ল ক্তু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জি ঐচ ক্যু দা    Generated:জি ঐচ ক্যু দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থুং ল ব গা    Generated:থুং ল ব গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেৱাইকে এল    Generated:কেৱাইকে এল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়ুএনএল এফ    Generated:য়ুএনএল এফ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রি পাকি    Generated:প্রি পাকি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ও বজা র্ ব র শিং    Generated:ও বজা র্ ব র শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও না    Generated:য়াও না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শেম খি বা    Generated:শেম খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফোর্মে ট    Generated:ফোর্মে ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থুগাই র গা    Generated:থুগাই র গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ইম্ মর জে ন্সি    Generated:ইম্ মর জে ন্সি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লাউথো ক্তু না    Generated:লাউথো ক্তু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই বা    Generated:ওই বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শ ক্তি    Generated:শ ক্তি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পূম্ন ম ক    Generated:পূম্ন ম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পায় শিন্ দু না    Generated:পায় শিন্ দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লাক খি    Generated:লাক খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মঙো ন্দা    Generated:মঙো ন্দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই বা    Generated:ওই বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থাজ বা    Generated:থাজ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পূম্ন ম ক    Generated:পূম্ন ম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থ মদু না    Generated:থ মদু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লাক্ল ব সু    Generated:লাক্ল ব সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মশা খক্ত গী    Generated:মশা খক্ত গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই বা    Generated:ওই বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱারে প তা    Generated:ৱারে প তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থবক    Generated:থবক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ র ক্তু না    Generated:তৌ র ক্তু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া ম্ না    Generated:য়া ম্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লু জ দবা    Generated:লু জ দবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থবক    Generated:থবক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্থ রকপ গা    Generated:চত্থ রকপ গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোয় ন না    Generated:লোয় ন না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱা শক    Generated:ৱা শক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ দ্ রি বা    Generated:লৌ দ্ রিবা 
+Substitution:2   Deletion:1   Insertions:-1   AER:0.4   Accuracy:0.6
+True:ফাও বা    Generated:ফাও বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও না    Generated:য়াও না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় বা </   Generated:হায় বা 
+Substitution:1   Deletion:0   Insertions:0   AER:0.3333333333333333   Accuracy:0.6666666666666667
+True:য়া গদ বা    Generated:য়া গদ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীওই শিং বু    Generated:মীওই শিং বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অৱাং বা    Generated:অৱাং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থা কি    Generated:থা কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:রে ঙ্ক    Generated:রে ঙ্ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লাউথো ক্ল গা    Generated:লাউথো ক্ল গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা কি    Generated:মহা কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মী নুংশি গী    Generated:মী নুংশি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱাং ম দা    Generated:ৱাং ম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈবা    Generated:লৈবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কুই না    Generated:কুই না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱা জ রক্ল বা    Generated:ৱা জ রক্ল বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অশেং বা    Generated:অশেং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কাড র শিং বু না    Generated:কাড র শিং বু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কনা গী সু    Generated:কনা গী সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱা    Generated:ৱা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা দ না    Generated:তা দ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ডি স চার্ জ    Generated:ডি স চার্ জ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ বা    Generated:তৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও খি    Generated:য়াও খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ বা    Generated:তৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থবক শিং দা    Generated:থবক শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কনা ম ত্ত না    Generated:কনা ম ত্ত না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়েত্ শিল্ল ক্ক নু    Generated:য়েত্ শিল্ল ক্ক নু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কম্ মেন্ট    Generated:কম্ মেন্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী রক্ ক নু    Generated:পী রক্ ক নু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায়বসি দা    Generated:হায়বসি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়ানীং দব শিং    Generated:য়ানীং দব শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্ খি বা    Generated:চত্ খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া গ নি    Generated:য়া গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় বা    Generated:হায় বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱাফম    Generated:ৱাফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থম্ল কপ গা    Generated:থম্ল কপ গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোয় ন না    Generated:লোয় ন না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্রেট রি    Generated:সেক্রেট রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও না    Generated:য়াও না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেন্ট্ রে ল    Generated:সেন্ট্ রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কম্মি টি গী    Generated:কম্মি টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এসিষ্টে ন্ট    Generated:এসিষ্টে ন্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্রেট রি শিং    Generated:সেক্রেট রি শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:দি ফ ঙ্ক    Generated:দি ফ ঙ্ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই দু না    Generated:ওই দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ ব দা    Generated:লৈব দা 
+Substitution:3   Deletion:1   Insertions:-1   AER:0.75   Accuracy:0.25
+True:তা খি    Generated:তা খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মা গী    Generated:মা গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মথ ক্ তা    Generated:মথ ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱা    Generated:ৱা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম ত্ তা    Generated:অম ত্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় নব গী    Generated:হায় নব গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শ ক্তি    Generated:শ ক্তি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কনা দ সু    Generated:কনা দ সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ খি দে    Generated:লৈখি দে 
+Substitution:3   Deletion:1   Insertions:-1   AER:0.75   Accuracy:0.25
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্রেট রি বু    Generated:সেক্রেট রি বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হাউ স    Generated:হাউ স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এ রে ষ্ট    Generated:এ রে ষ্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌব গু ম্ না    Generated:তৌব গু ম্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা কি    Generated:মহা কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই বা    Generated:ওই বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গার্ ড    Generated:গার্ ড 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম ত্ তা    Generated:অম ত্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী দ না    Generated:পী দ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থবক শিং দা    Generated:থবক শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা কি    Generated:মহা কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হক    Generated:হক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম ফাও    Generated:অম ফাও 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শিন্ন দ না    Generated:শিন্ন দ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থম্ল ব সু    Generated:থম্ল ব সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি দ বু    Generated:পার্টি দ বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফগত্ ল ব দি    Generated:ফগত্ ল ব দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় দু না    Generated:হায় দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খাঙ দু না    Generated:খাঙ দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লাক খি    Generated:লাক খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া দবা    Generated:য়া দবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফী বম    Generated:ফীব ম 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:খর দগী    Generated:খর দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্রেটরি না    Generated:সেক্রেট রি না 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:ফাইনা ন্স    Generated:ফাইনা ন্স 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ষ্টেট মেন্ট    Generated:ষ্টেট মেন্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পুথোক সি    Generated:পুথোক সি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রু ব দগী    Generated:হায় রু ব দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নুংঙাই ন দবা    Generated:নুংঙাই ন দবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফী বম    Generated:ফীব ম 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:লা কপ দা    Generated:লা কপ দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নত্ত না    Generated:নত্ত না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেসিপি দা    Generated:কেসিপি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শাই দাং দু না    Generated:শাই দাং দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈবা    Generated:লৈবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চীং গী    Generated:চীং গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অচৌ বা    Generated:অচৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লূপ    Generated:লূপ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দগী    Generated:অম দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চে ন্থো রক পা    Generated:চে ন্থো রক পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গ্রুপ    Generated:গ্রুপ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম গী    Generated:অম গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কম্মা ণ্ডর গা    Generated:কম্মা ণ্ডর গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মান্ন দু না    Generated:মান্ন দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খূত্ লায়    Generated:খূত্ লায় 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অচৌ বা    Generated:অচৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গা    Generated:গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মরূ    Generated:মরূ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হে ন্ না    Generated:হে ন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লো ন্ না    Generated:লো ন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পী থো ক্তু না    Generated:পী থো ক্তু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থব ক্ তা    Generated:থব ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মর ন্ নাই    Generated:মর ন্ নাই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই না    Generated:ওই না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্থ রক খি    Generated:চত্থ রক খি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্রেট রি    Generated:সেক্রেট রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সে নিয় র    Generated:সে নিয় র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওফিসা র শিং দা    Generated:ওফিসা র শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মান্ন দবা    Generated:মান্ন দবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীত্য়েং    Generated:মীত্য়েং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসু ম    Generated:অসু ম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়েং লক পা    Generated:য়েং লক পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক    Generated:মহা ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মশা ফাও বা    Generated:মশা ফাও বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও দবা    Generated:য়াও দবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মীফম দা    Generated:মীফম দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক পু    Generated:মহা ক পু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অৱাং বা    Generated:অৱাং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থা ক্ তা    Generated:থা ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থম্ বা    Generated:থম্ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থেংন বা    Generated:থেংন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙম্ল রোই দবা    Generated:ঙম্ল রোই দবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লু রবা    Generated:লু রবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মি সন    Generated:মি সন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কয়া    Generated:কয়া 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক    Generated:মহা ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও দ না    Generated:য়াও দ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মায়    Generated:মায় 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পা ক্ না    Generated:পা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্থ খি বা    Generated:চত্থ খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কয়া বু    Generated:কয়া বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খঙ দ না    Generated:খঙ দ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক পু    Generated:মহা ক পু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়া দব শিং বু    Generated:য়া দব শিং বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌথো ক্ল গা    Generated:লৌথো ক্ল গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক    Generated:মহা ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মথ ন্ তা    Generated:মথ ন্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নিংথৌ    Generated:নিংথৌ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই হৌ ন বা    Generated:ওই হৌ ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হোত্ন রক ই    Generated:হোত্ন রক ই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মুনি না    Generated:মুনি না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নুংশি দু না    Generated:নুংশি দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:উ চি বু    Generated:উ চি বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কৈ    Generated:কৈ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ও ল হনব দা    Generated:ও ল হনব দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওন শিল্ল কপ দগী    Generated:ওন শিল্ল কপ দগী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:উ চি দা    Generated:উ চি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অমু ক    Generated:অমু ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হঞ্জি ন হন খিব গু ম    Generated:হঞ্জি ন হন খিব গু ম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক পু    Generated:মহা ক পু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অৱাং বা    Generated:অৱাং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থা ক্ তা    Generated:থা ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পুখত্ প শিং দা    Generated:পুখত্ প শিং দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওন শিল্ল ক্ল ব দি    Generated:ওন শিল্ল ক্ল ব দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক    Generated:মহা ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মথ ন্ তা    Generated:মথ ন্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা হৌ বা    Generated:তা হৌ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা ব নি    Generated:তা ব নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় না    Generated:হায় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পল্ল দু না    Generated:পল্ল দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্রেট রি    Generated:সেক্রেট রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও না    Generated:য়াও না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সে নিয় র মো ষ্ট    Generated:সে নিয় র মো ষ্ট 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওফিসা র শিং    Generated:ওফিসা র শিং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থোক্ল ক্তু না    Generated:থোক্ল ক্তু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মপা ঙ্গ ল    Generated:মপা ঙ্গ ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শাগত্ ন বা    Generated:শাগত্ ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হোত্ন রকপ নি    Generated:হোত্ন রকপ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেসিপি দা    Generated:কেসিপি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লা বা    Generated:লা বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ রি ব মখৈ দি    Generated:লৈরিব মখৈ দি 
+Substitution:4   Deletion:2   Insertions:-2   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:গ্রুপ    Generated:গ্রুপ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ম শীং    Generated:মশীং 
+Substitution:2   Deletion:1   Insertions:-1   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:খঙ দ না    Generated:খঙ দ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থোক্ল ক খি গ নি    Generated:থোক্ল ক খি গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ জিক    Generated:হৌজি ক 
+Substitution:2   Deletion:0   Insertions:0   AER:0.6666666666666666   Accuracy:0.33333333333333337
+True:থো ক্লি বা    Generated:থো ক্লি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থোক্ল ক্ক দবা    Generated:থোক্ল ক্ক দবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গ্রুপ    Generated:গ্রুপ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ময়া মসি গী    Generated:ময়া মসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌরক ফম দি    Generated:হৌরক ফম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ল মহা ক্ নি    Generated:ল মহা ক্ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পূম্ন ম ক সি গী    Generated:পূম্ন ম ক সি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:দায়ত্ ব    Generated:দায়ত্ ব 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মহা ক্ না    Generated:মহা ক্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পু ফম    Generated:পু ফম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থোক ই    Generated:থোক ই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:সেক্রেট রি    Generated:সেক্রেট রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কে কে    Generated:কে কে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঙা নব না    Generated:ঙা নব না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লা ব গা    Generated:লা ব গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অমু ক    Generated:অমু ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হন্ না    Generated:হন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চত্ মিন্ন র রোই    Generated:চত্ মিন্ন র রোই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু বু    Generated:অদু বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি দা    Generated:পার্টি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি দা    Generated:অসি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শেমগত্ চ রক পা    Generated:শেমগত্ চ রক পা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কয়া    Generated:কয়া 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈব না    Generated:লৈব না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কম রে দ    Generated:কম রে দ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এম এফ এল    Generated:এম এফ এল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় না    Generated:হায় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চেরোল দু না    Generated:চেরোল দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফোঙদো রকপ গা    Generated:ফোঙদো রকপ গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লোয় ন না    Generated:লোয় ন না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মখোয় দা    Generated:মখোয় দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈবা    Generated:লৈবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মী নুংশি দি    Generated:মী নুংশি দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু ম্ম ক    Generated:অদু ম্ম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৈ গ নি    Generated:লৈ গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ম চো ই    Generated:ম চো ই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ম চো ই    Generated:ম চো ই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তা রবা    Generated:তা রবা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেসিপি    Generated:কেসিপি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পূ ন শিন্ন বা    Generated:পূ ন শিন্ন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অ ঙম্ বা    Generated:অ ঙম্ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থা ক্ তা    Generated:থা ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হোত্ন গ নি    Generated:হোত্ন গ নি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু বু    Generated:অদু বু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মসি দা    Generated:মসি দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লা ব গী    Generated:লা ব গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱাফম দি    Generated:ৱাফম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অমু ক    Generated:অমু ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হন্ না    Generated:হন্ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খন্ন র রোই    Generated:খন্ন র রোই 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় না    Generated:হায় না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চেরোল দু না    Generated:চেরোল দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফোঙদো রক্ লি    Generated:ফোঙদো রক্ লি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পূম্ন ম ক    Generated:পূম্ন ম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি    Generated:অসি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই দু ন সু    Generated:ওই দু ন সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:জেন রে ল    Generated:জেন রে ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কংগ্রে স ত গী    Generated:কংগ্রে স ত গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ র গা    Generated:হৌ র গা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চহি সি গী    Generated:চহি সি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এ প্রি ল    Generated:এ প্রি ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:দা    Generated:দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পাঙ থোক খি বা    Generated:পাঙথোক খি বা 
+Substitution:4   Deletion:1   Insertions:-1   AER:0.8   Accuracy:0.19999999999999996
+True:পার্টি গী    Generated:পার্টি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:শু বা    Generated:শু বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেসিপি গী    Generated:কেসিপি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ম পোক    Generated:ম পোক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কুম ওন    Generated:কুম ওন 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফাও ব দা    Generated:ফাও ব দা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেসিপি গীদ ম ক    Generated:কেসিপি গীদ ম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:কেৱাইকে এল    Generated:কেৱাইকে এল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:প্রি পাক    Generated:প্রি পাক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়ুএনএল এফ না    Generated:য়ুএনএল এফ না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:লৌ বী খি বা    Generated:লৌ বী খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌ দাং    Generated:তৌ দাং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ৱা বী খি বা    Generated:ৱা বী খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অম দি    Generated:অম দি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পাং বী খি বা    Generated:পাং বী খি বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মতেং    Generated:মতেং 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পূম্ন ম ক    Generated:পূম্ন ম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অদু গীদ ম ক    Generated:অদু গীদ ম ক 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও ল্ল ূ প    Generated:য়াও ল্ল ূ প 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অহু ম্বা    Generated:অহু ম্বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অৱাং বা    Generated:অৱাং বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থা ক্ তা    Generated:থা ক্ তা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:য়াও ল গী    Generated:য়াও ল গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:তৌবী ম ল    Generated:তৌবী ম ল 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:খঙ বা    Generated:খঙ বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ঊত্ ল ক্লি    Generated:ঊত্ ল ক্লি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পার্টি    Generated:পার্টি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:অসি গী    Generated:অসি গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ওই না    Generated:ওই না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মে জ র    Generated:মে জ র 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:এম    Generated:এম 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:নোং থাং না    Generated:নোং থাং না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চীফ    Generated:চী ফ 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:প্রোজেক্ট    Generated:প্রোজে ক্ট 
+Substitution:2   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:ওফিসার গী    Generated:ওফিসা র গী 
+Substitution:3   Deletion:-1   Insertions:1   AER:1.0   Accuracy:0.0
+True:থৌ    Generated:থৌ 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:পু দু না    Generated:পু দু না 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:ফাইনা ন্স কি    Generated:ফাইনা ন্স কি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:থবক সু    Generated:থবক সু 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:মে    Generated:মে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:গী    Generated:গী 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:চঙশিন বা    Generated:চঙশিন বা 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হৌ রে    Generated:হৌ রে 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
+True:হায় রি    Generated:হায় রি 
+Substitution:0   Deletion:0   Insertions:0   AER:0.0   Accuracy:1.0
